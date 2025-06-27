@@ -2,7 +2,7 @@ streamlit==1.24.1
 nltk==3.8.1
 requests==2.31.0
 transformers==4.34.0
-torch==2.1.0
+torch==2.7.1
 sentencepiece==0.1.99
 keybert==0.8.1
 spacy==3.5.4
