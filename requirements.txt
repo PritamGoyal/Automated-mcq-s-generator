@@ -1,8 +1,9 @@
-streamlit
-nltk
-transformers
-keybert
-spacy
-requests
-torch
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
+streamlit==1.24.1
+nltk==3.8.1
+requests==2.31.0
+transformers==4.34.0
+torch==2.1.0
+sentencepiece==0.1.99
+keybert==0.8.1
+spacy==3.5.4
+en-core-web-sm==3.5.4
