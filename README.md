@@ -23,9 +23,8 @@ spaCy
 WordNet
 ConceptNet
 KeyBERT
-![Alt text](images/proj1.png)
-![Alt text](images/proj2.jpg)
-![Alt text](images/proj3.png)
-![Alt text](images/proj4.jpg)
-![Alt text](images/proj1.png)
-![Alt text](images/proj5.jpg)
+![](images/proj1.png)
+![](images/proj2.jpg)
+![](images/proj3.png)
+![](images/proj4.jpg)
+![](images/proj5.jpg)
