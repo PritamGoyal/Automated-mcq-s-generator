@@ -24,8 +24,8 @@ WordNet
 ConceptNet
 KeyBERT
 
-![](images/prog1.png)
+![](images/proj1.jpg)
 ![](images/proj2.jpg)
-![](images/proj3.png)
+![](images/proj3.jpg)
 ![](images/proj4.jpg)
 ![](images/proj5.jpg)
